@@ -1,2 +1,5 @@
 # new-chatbot
-@ Rawlinz Designs
+
+[@ Rawlinz Designs](https://itsrawlinz-jeff.github.io/rawlinzdesignsblogspot/)
+
+Jeffrey Rowlings
